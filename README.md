@@ -2,7 +2,9 @@
 This is a portfolio website for Delani Studios.
 It shows and explains what Delani Studios is about- what the do,what services they offer and projects they have done in the past.
 
-![website screenshot](https://github.com/DevSheila/STUDIO-PORTFOLIO/blob/main/Screenshots/catch.PNG)
+![website screenshot](https://github.com/sheilasharon/sheilasharon2.github.io/blob/main/Screenshots/catch.PNG)
+
+
 ## Table of contents
 * [Demo](#demo)
  
