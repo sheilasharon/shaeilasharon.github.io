@@ -2,64 +2,65 @@
 This is a portfolio website for Delani Studios.
 It shows and explains what Delani Studios is about- what the do,what services they offer and projects they have done in the past.
 
-
+![website screenshot](https://github.com/DevSheila/STUDIO-PORTFOLIO/blob/main/Screenshots/catch.PNG)
 ## Table of contents
-#
+* [Demo](#demo)
+ 
 * [Features](#features)
 
 * [Technologies](#technologies)
 
-* [Getting Started](#getting-started)
+* [Setup](#setup)
 
-* [Usage](#Usage)
+
 
 * [Licence](#Licence)
 
-
+## Demo
+Here is a working live demo : https://sheilasharon.github.io/sheilasharon2.github.io/
 ## Features
-#
+
 1. Fully responsive
 
-1.  Services outline
+1.  Services offered
 
-1. Portfolio
+1. Show case of projects done in the recent past
 
-1. Contact us
+1. Contact us form
 
-![website screenshot](https://github.com/DevSheila/STUDIO-PORTFOLIO/blob/main/Screenshots/website_screenshot.jpg)
+
 
 
 
 ## Technologies
-#
+
 1. HTML 5
 1. CSS 3
 1. BOOTSTRAP 4
 1. jQuery
 
-## Getting Started
-#
 
+
+
+## Setup
 
 * You can download  manually and pass it to your root directory.
 
 * You can also clone it directly to your folder:
 
 ```
-$ git clone https://github.com/rhazdon/hugo-theme-hello-friend-ng.git themes/hello-friend-ng
+$ git clone https://github.com/sheilasharon/sheilasharon2.github.io.git
 
 ```
 
-* If you don't want to make any radical changes, it's the best option, because you can get new updates when they are available. To do so, include it as a git submodule:
+* If you don't want to make any radical changes, include it as a git submodule.You  can now get new updates when they are available. To do so, :
 
 ```
-$ git submodule add https://github.com/rhazdon/hugo-theme-hello-friend-ng.git themes/hello-friend-ng
+$ git submodule add https://github.com/sheilasharon/sheilasharon2.github.io.git
 
 ```
 
-## Usage
-#
-After you clone this repo to your desktop, go to its root directory and double click on index.html file
+
 
 
 
